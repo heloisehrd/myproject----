@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap");
+
+
+
+body {
+  font-family:'Lora', serif;
+  font-size: 18px;
+   color: black;
+  text-align: center; }
+
+.banner {
+background-image:url(images/background.jpg);
+background-size: cover;
+background-position: center;
+}
+
+h1, h2, h3 {
+  font-family: 'Work sans', sans-serif;
+  font-weight: bold;
+  letter-spacing: 10px;
+
+}
+.btn_visitusandapply {
+  background-color: rgb(195,130,215);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 1.5px;
+  text-decoration: blue; }
+
